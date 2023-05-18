@@ -14,3 +14,5 @@
 | [Ilieff, Mr. Ylio](https://www.encyclopedia-titanica.org/titanic-victim/ilyo-iliev.html)                                                      | 32            |
 | [Johnston, Mrs. Andrew G (Elizabeth Lily" Watson)"](https://www.encyclopedia-titanica.org/titanic-victim/eliza-johnston.html)                 | 36            |
 | [Kennedy, Mr. John](https://www.encyclopedia-titanica.org/titanic-survivor/john-kennedy.html)                                                 | 24            |
+| [Khalil, Mr. Betros](https://www.encyclopedia-titanica.org/titanic-victim/betros-khalil.html)                                                 | 25            |
+| [Kiernan, Mr. John](https://www.encyclopedia-titanica.org/titanic-victim/john-kiernan.html)                                                   | 26            |
